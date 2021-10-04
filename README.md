@@ -28,3 +28,5 @@ before using, you will probably need to install python, and then run the followi
 pip install bs4
 pip install requests
 ```
+
+If there's an error, make sure you logged in correctly and that the url is correct and in the correct format. If it still doesn't work send me a msg
