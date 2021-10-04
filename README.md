@@ -19,3 +19,12 @@ https://www.drfrostmaths.com/do-question.php?aaid=31789719
 Just copy and paste that in.
 
 Note: you can get banned for using this, especially with a low delay (under 5 seconds) or a high question count (over 100)
+
+# Important
+
+before using, you will probably need to install python, and then run the following commands in your terminal:
+
+```
+pip install bs4
+pip install requests
+```
